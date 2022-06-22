@@ -1,0 +1,4 @@
+# Some Additional packages I like having around.
+emacs-nox
+bzip2
+git
