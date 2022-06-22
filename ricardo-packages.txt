@@ -2,3 +2,4 @@
 emacs-nox
 bzip2
 git
+screen
